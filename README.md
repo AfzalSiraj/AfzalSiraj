@@ -18,7 +18,7 @@ Civil and structural engineer with 7+ years of experience across construction pr
 
 **Interests:** struck-by hazard monitoring · crane safety · safety climate · digital construction
 
-**Tools:** Python · PyTorch · Ultralytics YOLO · OpenCV · ByteTrack · Abaqus · ETABS · AutoCAD
+**Tools:** Python · PyTorch · Ultralytics YOLO · OpenCV · ByteTrack · Abaqus · ETABS · AutoCAD · statsmodels
 
 🏆 Top Performer, Generative AI Application Developer Course (2026)
 

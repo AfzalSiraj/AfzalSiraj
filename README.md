@@ -14,6 +14,7 @@ Civil and structural engineer with 7+ years of experience across construction pr
 
 - [construction-ppe-yolo](https://github.com/AfzalSiraj/construction-ppe-yolo): fine-tuned YOLO26 to detect workers, PPE, missing PPE and forklifts on construction sites (mAP50 0.746), with a worker–forklift proximity check
 - [worker-tracking-warnings](https://github.com/AfzalSiraj/worker-tracking-warnings): tracks workers near an active tower crane, predicts their movement and issues tiered INFORM / WARN / STOP warnings before they enter the load's landing zone
+- [crane-camera-accuracy](https://github.com/AfzalSiraj/crane-camera-accuracy): simulation study (DOE + ANOVA, 4,860 trials) of how accurately a crane-mounted camera can locate workers in metres; lens calibration and camera height matter most
 
 **Interests:** struck-by hazard monitoring · crane safety · safety climate · digital construction
 
